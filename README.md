@@ -1,2 +1,2 @@
 # Docker-sample
-This is a sample app to Docker container.
+This is a sample app to try out Docker container.
