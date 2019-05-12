@@ -9,7 +9,7 @@ def get_identicon():
 
     header = '<html><head><title>Identidock</title></head></html>'
     body = '''<form method='POST'>
-              Hello <input type='text' name='name' value'{}'>
+              Hello <input type='text' name='name' value='{}'>
               <input type='submit' value='submit'>
               </form>
               <p>You look like a:
